@@ -1,0 +1,674 @@
+{
+ "header-button": {
+  "name": "Header Button",
+  "nodeId": "1893:83",
+  "w": 720,
+  "h": 74
+ },
+ "icon-logo": {
+  "name": "Icon/logo",
+  "nodeId": "1897:55",
+  "w": 40,
+  "h": 40
+ },
+ "search-field": {
+  "name": "Search Field",
+  "nodeId": "1899:148",
+  "w": 704,
+  "h": 608
+ },
+ "bottom-nav": {
+  "name": "Bottom Nav",
+  "nodeId": "1902:254",
+  "w": 720,
+  "h": 81
+ },
+ "menu-row": {
+  "name": "Menu Row",
+  "nodeId": "1906:335",
+  "w": 417,
+  "h": 720
+ },
+ "menu": {
+  "name": "Menu",
+  "nodeId": "1914:601",
+  "w": 720,
+  "h": 171
+ },
+ "header": {
+  "name": "Header",
+  "nodeId": "1918:1175",
+  "w": 388,
+  "h": 720
+ },
+ "status-bar": {
+  "name": "Status Bar",
+  "nodeId": "2003:3279",
+  "w": 402,
+  "h": 62
+ },
+ "home-indicator": {
+  "name": "Home Indicator",
+  "nodeId": "2003:3295",
+  "w": 402,
+  "h": 34
+ },
+ "section-head": {
+  "name": "Section Head",
+  "nodeId": "1897:77",
+  "w": 720,
+  "h": 74
+ },
+ "sound-button": {
+  "name": "Sound Button",
+  "nodeId": "1897:135",
+  "w": 306,
+  "h": 106
+ },
+ "hero-arrow": {
+  "name": "Hero Arrow",
+  "nodeId": "1897:149",
+  "w": 186,
+  "h": 110
+ },
+ "pill": {
+  "name": "Pill",
+  "nodeId": "1900:212",
+  "w": 470,
+  "h": 120
+ },
+ "poster-card": {
+  "name": "Poster Card",
+  "nodeId": "1929:2366",
+  "w": 720,
+  "h": 406
+ },
+ "popular-item": {
+  "name": "Popular Item",
+  "nodeId": "1930:2296",
+  "w": 720,
+  "h": 207
+ },
+ "channel-card": {
+  "name": "Channel Card",
+  "nodeId": "1931:2441",
+  "w": 720,
+  "h": 698
+ },
+ "coming-soon-card": {
+  "name": "Coming Soon Card",
+  "nodeId": "1933:2423",
+  "w": 720,
+  "h": 192
+ },
+ "app-phone": {
+  "name": "App Phone",
+  "nodeId": "1934:2341",
+  "w": 400,
+  "h": 380
+ },
+ "app-promo": {
+  "name": "App Promo",
+  "nodeId": "1934:2403",
+  "w": 720,
+  "h": 625
+ },
+ "hover-card": {
+  "name": "Hover Card",
+  "nodeId": "1936:2636",
+  "w": 406,
+  "h": 720
+ },
+ "hero-card": {
+  "name": "Hero Card",
+  "nodeId": "1940:2765",
+  "w": 534,
+  "h": 720
+ },
+ "peek-sheet": {
+  "name": "Peek Sheet",
+  "nodeId": "1941:2810",
+  "w": 720,
+  "h": 326
+ },
+ "footer": {
+  "name": "Footer",
+  "nodeId": "1943:3064",
+  "w": 518,
+  "h": 720
+ },
+ "spinner": {
+  "name": "Spinner",
+  "nodeId": "2203:12243",
+  "w": 24,
+  "h": 24
+ },
+ "notice": {
+  "name": "Notice",
+  "nodeId": "1897:113",
+  "w": 720,
+  "h": 72
+ },
+ "notification-row": {
+  "name": "Notification Row",
+  "nodeId": "1922:1357",
+  "w": 720,
+  "h": 308
+ },
+ "notifications-panel": {
+  "name": "Notifications Panel",
+  "nodeId": "1925:2412",
+  "w": 720,
+  "h": 349
+ },
+ "dialog-log-in": {
+  "name": "Dialog Log in",
+  "nodeId": "1926:2262",
+  "w": 720,
+  "h": 252
+ },
+ "channel-picker": {
+  "name": "Channel Picker",
+  "nodeId": "1987:3314",
+  "w": 698,
+  "h": 720
+ },
+ "notifications-empty": {
+  "name": "Notifications Empty",
+  "nodeId": "2207:38264",
+  "w": 720,
+  "h": 234
+ },
+ "cover-image": {
+  "name": "Cover image",
+  "nodeId": "1909:319",
+  "w": 720,
+  "h": 484
+ },
+ "avatar-image": {
+  "name": "Avatar image",
+  "nodeId": "1909:320",
+  "w": 720,
+  "h": 73
+ },
+ "clip-still": {
+  "name": "Clip still",
+  "nodeId": "1909:321",
+  "w": 720,
+  "h": 421
+ },
+ "recent-search-row": {
+  "name": "Recent Search Row",
+  "nodeId": "2017:3288",
+  "w": 720,
+  "h": 93
+ },
+ "library-row": {
+  "name": "Library Row",
+  "nodeId": "2017:3374",
+  "w": 720,
+  "h": 111
+ },
+ "library-cover": {
+  "name": "Library Cover",
+  "nodeId": "2018:3426",
+  "w": 720,
+  "h": 541
+ },
+ "library-tile": {
+  "name": "Library Tile",
+  "nodeId": "2020:3883",
+  "w": 720,
+  "h": 434
+ },
+ "folder-head": {
+  "name": "Folder Head",
+  "nodeId": "2020:4064",
+  "w": 720,
+  "h": 164
+ },
+ "following-channel-tile": {
+  "name": "Following Channel Tile",
+  "nodeId": "2021:3804",
+  "w": 720,
+  "h": 181
+ },
+ "visibility-option": {
+  "name": "Visibility Option",
+  "nodeId": "2021:3836",
+  "w": 720,
+  "h": 125
+ },
+ "library-empty": {
+  "name": "Library Empty",
+  "nodeId": "2021:3879",
+  "w": 720,
+  "h": 457
+ },
+ "index-card": {
+  "name": "Index Card",
+  "nodeId": "2021:3964",
+  "w": 720,
+  "h": 173
+ },
+ "library-sheet": {
+  "name": "Library Sheet",
+  "nodeId": "2024:3805",
+  "w": 494,
+  "h": 669
+ },
+ "save-to": {
+  "name": "Save To",
+  "nodeId": "2024:4189",
+  "w": 720,
+  "h": 443
+ },
+ "dialog-playlist": {
+  "name": "Dialog Playlist",
+  "nodeId": "2024:4715",
+  "w": 720,
+  "h": 464
+ },
+ "page-head": {
+  "name": "Page Head",
+  "nodeId": "2025:4321",
+  "w": 720,
+  "h": 78
+ },
+ "index-head": {
+  "name": "Index Head",
+  "nodeId": "2025:5909",
+  "w": 720,
+  "h": 139
+ },
+ "browse-filters": {
+  "name": "Browse Filters",
+  "nodeId": "2025:8122",
+  "w": 720,
+  "h": 269
+ },
+ "search-panel": {
+  "name": "Search Panel",
+  "nodeId": "2027:7786",
+  "w": 720,
+  "h": 184
+ },
+ "player-top": {
+  "name": "Player Top",
+  "nodeId": "2062:7200",
+  "w": 482,
+  "h": 200
+ },
+ "channel-chip": {
+  "name": "Channel Chip",
+  "nodeId": "2062:7222",
+  "w": 438,
+  "h": 116
+ },
+ "video-action-row": {
+  "name": "Video Action Row",
+  "nodeId": "2062:7503",
+  "w": 720,
+  "h": 231
+ },
+ "player-info": {
+  "name": "Player Info",
+  "nodeId": "2064:7693",
+  "w": 720,
+  "h": 213
+ },
+ "player-bar": {
+  "name": "Player Bar",
+  "nodeId": "2064:8130",
+  "w": 720,
+  "h": 303
+ },
+ "player-center": {
+  "name": "Player Center",
+  "nodeId": "2064:8207",
+  "w": 616,
+  "h": 328
+ },
+ "chapter-row": {
+  "name": "Chapter Row",
+  "nodeId": "2068:9164",
+  "w": 720,
+  "h": 452
+ },
+ "transcript-row": {
+  "name": "Transcript Row",
+  "nodeId": "2068:9173",
+  "w": 720,
+  "h": 195
+ },
+ "player-sheet": {
+  "name": "Player Sheet",
+  "nodeId": "2070:10402",
+  "w": 720,
+  "h": 705
+ },
+ "landscape-controls": {
+  "name": "Landscape Controls",
+  "nodeId": "2071:34210",
+  "w": 720,
+  "h": 698
+ },
+ "feed-progress": {
+  "name": "Feed Progress",
+  "nodeId": "2186:12128",
+  "w": 720,
+  "h": 26
+ },
+ "profile-stat-tile": {
+  "name": "Profile Stat Tile",
+  "nodeId": "2062:7514",
+  "w": 428,
+  "h": 142
+ },
+ "link-chip": {
+  "name": "Link Chip",
+  "nodeId": "2062:7537",
+  "w": 488,
+  "h": 116
+ },
+ "report-reason": {
+  "name": "Report Reason",
+  "nodeId": "2062:7551",
+  "w": 720,
+  "h": 99
+ },
+ "profile-section-head": {
+  "name": "Profile Section Head",
+  "nodeId": "2062:7584",
+  "w": 720,
+  "h": 55
+ },
+ "round-field": {
+  "name": "Round Field",
+  "nodeId": "2062:7617",
+  "w": 720,
+  "h": 89
+ },
+ "channel-intro-tile": {
+  "name": "Channel Intro Tile",
+  "nodeId": "2064:31942",
+  "w": 720,
+  "h": 483
+ },
+ "your-channel-tile": {
+  "name": "Your Channel Tile",
+  "nodeId": "2064:32045",
+  "w": 720,
+  "h": 205
+ },
+ "channel-series-card": {
+  "name": "Channel Series Card",
+  "nodeId": "2064:32098",
+  "w": 720,
+  "h": 207
+ },
+ "profile-empty": {
+  "name": "Profile Empty",
+  "nodeId": "2064:32145",
+  "w": 720,
+  "h": 425
+ },
+ "profile-header": {
+  "name": "Profile Header",
+  "nodeId": "2067:9027",
+  "w": 720,
+  "h": 706
+ },
+ "profile-filter-bar": {
+  "name": "Profile Filter Bar",
+  "nodeId": "2067:9218",
+  "w": 720,
+  "h": 207
+ },
+ "text-area": {
+  "name": "Text Area",
+  "nodeId": "2068:32557",
+  "w": 720,
+  "h": 92
+ },
+ "about-dialog": {
+  "name": "About Dialog",
+  "nodeId": "2068:33062",
+  "w": 720,
+  "h": 256
+ },
+ "report-dialog": {
+  "name": "Report Dialog",
+  "nodeId": "2068:33405",
+  "w": 720,
+  "h": 591
+ },
+ "intro-player": {
+  "name": "Intro Player",
+  "nodeId": "2070:34144",
+  "w": 720,
+  "h": 250
+ },
+ "address-row": {
+  "name": "Address Row",
+  "nodeId": "2070:34168",
+  "w": 404,
+  "h": 108
+ },
+ "link-field-row": {
+  "name": "Link Field Row",
+  "nodeId": "2070:34255",
+  "w": 720,
+  "h": 90
+ },
+ "intro-field": {
+  "name": "Intro Field",
+  "nodeId": "2070:34307",
+  "w": 720,
+  "h": 69
+ },
+ "edit-dialog": {
+  "name": "Edit Dialog",
+  "nodeId": "2070:35316",
+  "w": 720,
+  "h": 429
+ },
+ "share-logo-m": {
+  "name": "Share Logo M",
+  "nodeId": "2077:10989",
+  "w": 672,
+  "h": 160
+ },
+ "share-logo-l": {
+  "name": "Share Logo L",
+  "nodeId": "2077:11066",
+  "w": 720,
+  "h": 109
+ },
+ "share-target": {
+  "name": "Share Target",
+  "nodeId": "2077:11089",
+  "w": 274,
+  "h": 160
+ },
+ "share-preview": {
+  "name": "Share Preview",
+  "nodeId": "2077:11127",
+  "w": 720,
+  "h": 295
+ },
+ "share-dialog": {
+  "name": "Share Dialog",
+  "nodeId": "2077:12536",
+  "w": 670,
+  "h": 720
+ },
+ "player-button": {
+  "name": "Player Button",
+  "nodeId": "2062:30835",
+  "w": 312,
+  "h": 546
+ },
+ "time-pill": {
+  "name": "Time Pill",
+  "nodeId": "2062:30836",
+  "w": 91,
+  "h": 40
+ },
+ "volume": {
+  "name": "Volume",
+  "nodeId": "2062:30891",
+  "w": 264,
+  "h": 200
+ },
+ "seek-bar": {
+  "name": "Seek Bar",
+  "nodeId": "2062:30905",
+  "w": 485,
+  "h": 316
+ },
+ "seek-preview": {
+  "name": "Seek Preview",
+  "nodeId": "2062:30918",
+  "w": 397,
+  "h": 290
+ },
+ "series-pill": {
+  "name": "Series Pill",
+  "nodeId": "2062:30952",
+  "w": 470,
+  "h": 184
+ },
+ "player-action": {
+  "name": "Player Action",
+  "nodeId": "2062:30983",
+  "w": 304,
+  "h": 200
+ },
+ "episode-nav": {
+  "name": "Episode Nav",
+  "nodeId": "2062:31038",
+  "w": 200,
+  "h": 240
+ },
+ "player-controls": {
+  "name": "Player Controls",
+  "nodeId": "2064:31712",
+  "w": 720,
+  "h": 256
+ },
+ "end-card": {
+  "name": "End Card",
+  "nodeId": "2064:31789",
+  "w": 621,
+  "h": 720
+ },
+ "player-settings": {
+  "name": "Player Settings",
+  "nodeId": "2064:31790",
+  "w": 372,
+  "h": 294
+ },
+ "video-info": {
+  "name": "Video Info",
+  "nodeId": "2067:9219",
+  "w": 358,
+  "h": 172
+ },
+ "creator-row": {
+  "name": "Creator Row",
+  "nodeId": "2067:9298",
+  "w": 438,
+  "h": 232
+ },
+ "vote-actions": {
+  "name": "Vote Actions",
+  "nodeId": "2067:9571",
+  "w": 720,
+  "h": 311
+ },
+ "episode-cell": {
+  "name": "Episode Cell",
+  "nodeId": "2067:9586",
+  "w": 424,
+  "h": 231
+ },
+ "episodes-head": {
+  "name": "Episodes Head",
+  "nodeId": "2067:9607",
+  "w": 438,
+  "h": 172
+ },
+ "playlist-head": {
+  "name": "Playlist Head",
+  "nodeId": "2067:9608",
+  "w": 358,
+  "h": 42
+ },
+ "playlist-item": {
+  "name": "Playlist Item",
+  "nodeId": "2067:9645",
+  "w": 720,
+  "h": 387
+ },
+ "episode-card": {
+  "name": "Episode Card",
+  "nodeId": "2067:9658",
+  "w": 297,
+  "h": 294
+ },
+ "comments-head": {
+  "name": "Comments Head",
+  "nodeId": "2067:9659",
+  "w": 358,
+  "h": 24
+ },
+ "comment-composer": {
+  "name": "Comment Composer",
+  "nodeId": "2067:9693",
+  "w": 720,
+  "h": 566
+ },
+ "comment": {
+  "name": "Comment",
+  "nodeId": "2067:9768",
+  "w": 450,
+  "h": 394
+ },
+ "description-dialog": {
+  "name": "Description Dialog",
+  "nodeId": "2068:9191",
+  "w": 560,
+  "h": 605
+ },
+ "all-episodes": {
+  "name": "All Episodes",
+  "nodeId": "2068:9279",
+  "w": 368,
+  "h": 720
+ },
+ "transcript-drawer": {
+  "name": "Transcript Drawer",
+  "nodeId": "2068:33630",
+  "w": 720,
+  "h": 686
+ },
+ "comment-as-row": {
+  "name": "Comment As Row",
+  "nodeId": "2213:13596",
+  "w": 664,
+  "h": 132
+ },
+ "comment-as-popover": {
+  "name": "Comment As Popover",
+  "nodeId": "2213:13597",
+  "w": 372,
+  "h": 284
+ },
+ "emoji-picker": {
+  "name": "Emoji Picker",
+  "nodeId": "2213:13652",
+  "w": 396,
+  "h": 392
+ }
+}

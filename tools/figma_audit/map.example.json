@@ -1,0 +1,161 @@
+{
+ "about": "Example map (viewer side). Make your own map.json for your prototype and Figma frames; see README.md.",
+ "page": "<Figma page id of the frames>",
+ "entries": [
+  {
+   "id": "poster-M",
+   "note": "Poster Card M at 1440",
+   "figma": "19632:20",
+   "url": "",
+   "viewport": [
+    1440,
+    900
+   ],
+   "setup": [
+    {
+     "scroll": "#rows .grid .video-card:has(.p-eps)"
+    }
+   ],
+   "root": "#rows .grid .video-card:has(.p-eps)",
+   "parts": [
+    {
+     "name": "Poster",
+     "css": ".poster",
+     "fig": "Poster",
+     "checks": [
+      "x",
+      "y",
+      "w",
+      "h",
+      "radius",
+      "border",
+      "borderColor"
+     ]
+    },
+    {
+     "name": "Episodes",
+     "css": ".poster .p-eps",
+     "fig": "Poster/Top/Episodes",
+     "checks": [
+      "y",
+      "r",
+      "h",
+      "radius",
+      "bg"
+     ]
+    },
+    {
+     "name": "Views",
+     "css": ".poster .p-views",
+     "fig": "Poster/Bottom/Views",
+     "checks": [
+      "x",
+      "b",
+      "h",
+      "radius",
+      "bg"
+     ]
+    },
+    {
+     "name": "Title",
+     "css": ".card-title",
+     "fig": "Title",
+     "checks": [
+      "x",
+      "y",
+      "font",
+      "color"
+     ]
+    },
+    {
+     "name": "Meta",
+     "css": ".card-meta",
+     "fig": "Meta",
+     "checks": [
+      "x",
+      "y",
+      "font",
+      "color"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poster-XS",
+   "note": "Poster Card XS on the phone",
+   "figma": "19632:1389",
+   "url": "",
+   "viewport": [
+    402,
+    874
+   ],
+   "mobile": true,
+   "setup": [
+    {
+     "scroll": "#rows .grid .video-card:has(.p-eps)"
+    }
+   ],
+   "root": "#rows .grid .video-card:has(.p-eps)",
+   "parts": [
+    {
+     "name": "Poster",
+     "css": ".poster",
+     "fig": "Poster",
+     "checks": [
+      "x",
+      "y",
+      "w",
+      "h",
+      "radius",
+      "border",
+      "borderColor"
+     ]
+    },
+    {
+     "name": "Episodes",
+     "css": ".poster .p-eps",
+     "fig": "Poster/Top/Episodes",
+     "checks": [
+      "y",
+      "r",
+      "h",
+      "bg"
+     ]
+    },
+    {
+     "name": "Views",
+     "css": ".poster .p-views",
+     "fig": "Poster/Bottom/Views",
+     "checks": [
+      "x",
+      "b",
+      "h",
+      "bg"
+     ]
+    },
+    {
+     "name": "Title",
+     "css": ".card-title",
+     "fig": "Title",
+     "checks": [
+      "x",
+      "y",
+      "font",
+      "color"
+     ]
+    },
+    {
+     "name": "Meta",
+     "css": ".card-meta",
+     "fig": "Meta",
+     "checks": [
+      "x",
+      "y",
+      "font",
+      "color"
+     ]
+    }
+   ]
+  }
+ ]
+}

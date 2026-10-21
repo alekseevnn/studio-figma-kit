@@ -1,0 +1,8 @@
+{
+ "platform": {
+  "<page name in your notes JSON>": "<Figma page id in the web file>"
+ },
+ "app": {
+  "<page name>": "<page id in the Mobile App file>"
+ }
+}
